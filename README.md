@@ -1,3 +1,1 @@
 # Colaboration
-
-fraza
